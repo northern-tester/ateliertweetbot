@@ -1,0 +1,25 @@
+{
+  "name": "ateliertweetbot",
+  "version": "1.0.0",
+  "description": "The official leeds testing atelier tweetbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin git@github.com:northern-tester/ateliertweetbot.git"
+  },
+  "keywords": [
+    "leeds",
+    "testing",
+    "atelier",
+    "twitter"
+  ],
+  "author": "Ash Winter",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^1.2.0",
+    "twitter": "^1.7.0"
+  }
+}
